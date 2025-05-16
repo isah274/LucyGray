@@ -1,2 +1,2 @@
 # LucyGray
-site ewscola
+site escola
